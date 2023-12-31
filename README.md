@@ -7,7 +7,7 @@
 
 - I’m currently Pursuing **B.Tech. in Computer Science and Engineering.**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **sk2460@cse.jgec.ac.in**
 
